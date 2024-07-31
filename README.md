@@ -1,4 +1,4 @@
-This work replicates the geometry of the structure analysed in the paper ![Background Information of Deep Learning for Structural Engineering](https://www.researchgate.net/publication/318190131_Background_Information_of_Deep_Learning_for_Structural_Engineering).
+This work replicates the geometry of the structure analysed in the paper [Background Information of Deep Learning for Structural Engineering](https://www.researchgate.net/publication/318190131_Background_Information_of_Deep_Learning_for_Structural_Engineering).
 
 The figure below shows a beam like 2D truss with 10 bars. The length of the bars are fixed, however the cross sectional areas are obtained through a random uniform sampling between $0.6$ $cm^2$ and $225.8$ $cm^2$. In total, 500 different structures were generated.
 
